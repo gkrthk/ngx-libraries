@@ -1,0 +1,7 @@
+.widthClass{
+    width: 30%;
+}
+
+:host ::ng-deep .detect-location {
+    color:red;
+}
