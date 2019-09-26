@@ -4,14 +4,13 @@
   "description": "Angular component for location detection using browsers location.",
   "license": "MIT",
   "author": {
-    "name":"Karthik",
-    "email": "gkrthk@hotmail.com"  
+    "name":"Karthik"    
   },
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/gkrthk/ngx-detectlocation"
+    "url" : "https://github.com/gkrthk/ngx-libraries"
   },
-  "keywords" :["Angular","Library","location","detect","current"],
+  "keywords" :["Angular","Library","location","detect","current","reusable","component"],
   "browser":"ngx-detectlocation",
   "peerDependencies": {
     "@angular/common": "^8.1.2",
