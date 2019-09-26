@@ -1,13 +1,10 @@
-# Ngx-Libraries
+# ngx-detectlocation
 
-    **A set of reusable angular components as libraries**
+    **Angular 8 based location component with ability to detect current location and returns coordinates**
 
-# Libraries
-
-## Location Input Component
-  ###### Properties
+## Properties
    - Output
-      * locations -- Output event containing latitude and longitude
+      * locations -- Output containing latitude and longitude
    - Input
       * Address -- Address to be added in the input field.
       * FaIconName -- Font Awesome Icon for button in string. (e.g) 'map-marker-alt'
